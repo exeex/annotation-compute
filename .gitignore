@@ -2,4 +2,4 @@
 .idea/
 #*-librosa_mfcc.npy
 #*-librosa_chromagram.npy
-annotation_file_librosa
+ignore_file
