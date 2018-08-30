@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+#*-librosa_mfcc.npy
+#*-librosa_chromagram.npy
+annotation_file_librosa
